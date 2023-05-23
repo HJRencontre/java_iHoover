@@ -24,6 +24,6 @@ La nouvelle position et orientation vous sera retournée :
 Vous pouvez de nouveau inscrire une nouvelle instruction.
 
 ### Note
-Des contrôles sont effectués afin de ne pas sortir de la grille.
+Des contrôles sont effectués afin de ne pas sortir de la grille (allant de 0 à 9), l'instruction de nsera pas réalisée si l'aspirateur sort de la grille.
 
 
